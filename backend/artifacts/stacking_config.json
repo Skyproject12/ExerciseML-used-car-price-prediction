@@ -1,0 +1,23 @@
+{
+    "features": [
+        "provinsi",
+        "merek",
+        "model",
+        "varian",
+        "tahun",
+        "jarak_tempuh",
+        "tipe_bahan_bakar",
+        "warna",
+        "transmisi",
+        "tipe_bodi",
+        "kapasitas_mesin",
+        "tipe_penjual",
+        "sistem_penggerak"
+    ],
+    "base_learners": [
+        "rf",
+        "xgb",
+        "svr"
+    ],
+    "passthrough": false
+}

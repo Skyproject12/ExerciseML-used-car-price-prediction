@@ -1,0 +1,2498 @@
+{
+    "Aston Martin": {
+        "DB11": [
+            "Lain-lain",
+            "V12"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Rapide": [
+            "Lain-lain",
+            "S"
+        ],
+        "Vantage": [
+            "Lain-lain",
+            "V8 S"
+        ]
+    },
+    "Audi": {
+        "Allroad": [
+            "Lain-lain"
+        ],
+        "Audi A3": [
+            "FSI",
+            "Lain-lain",
+            "S3 Saloon",
+            "Sportback"
+        ],
+        "Audi A4": [
+            "1.8 TFSI PI",
+            "2.0",
+            "2.0 Sedan",
+            "Lain-lain",
+            "TFSI"
+        ],
+        "Audi A5": [
+            "Coupe",
+            "TFSI Quattro"
+        ],
+        "Audi A6": [
+            "2.0 TFSI",
+            "2.8 FSI S-Line",
+            "TFSI",
+            "V6 3.0"
+        ],
+        "Audi A8": [
+            "Lain-lain",
+            "V6 2.8"
+        ],
+        "Audi Q3": [
+            "1.4 TFSI",
+            "2.0 TFSI"
+        ],
+        "Audi Q5": [
+            "2.0 TFSI Quattro"
+        ],
+        "Audi Q7": [
+            "3.0 TFSI Quattro",
+            "3.0 TFSI V6 Special Package",
+            "FSI",
+            "TDI"
+        ],
+        "Audi R8": [
+            "Coupe"
+        ],
+        "Audi S5": [
+            "Lain-lain"
+        ],
+        "Audi TT": [
+            "2.0 S TFSI",
+            "Coupe"
+        ]
+    },
+    "BMW": {
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "M Series": [
+            "Lain-lain",
+            "M1 Coupe",
+            "M3",
+            "M4",
+            "M6"
+        ],
+        "Serie 1": [
+            "120i Steptronic",
+            "Lain-lain"
+        ],
+        "Serie 2": [
+            "218i",
+            "218i Sport Line Active Tour",
+            "Lain-lain"
+        ],
+        "Serie 3": [
+            "318i",
+            "318i 1.8",
+            "318i 2.0",
+            "318i E30 1.8",
+            "318i E36 1.8",
+            "318i E46 1.8",
+            "318i E46 1.9",
+            "318i E46 Facelift 2.0",
+            "320d",
+            "320d Modern",
+            "320i",
+            "320i 2.0",
+            "320i Business Edition",
+            "320i E36 2.0",
+            "320i E90 2.0",
+            "320i E90 Facelift",
+            "320i E90 LCI",
+            "320i Luxury",
+            "320i M Sport",
+            "320i Sport",
+            "323i",
+            "323i E36 2.5",
+            "323i E46 2.5",
+            "325Ci 2.5 Coupe",
+            "325i",
+            "325i 2.5",
+            "325i E46 L6",
+            "325i E90 L6",
+            "328i 2.0 Luxury",
+            "328i 2.0 Sport",
+            "328i Luxury",
+            "328i Sport",
+            "330i",
+            "330i 2.0 M Sport",
+            "330i 3.0",
+            "330i M Sport",
+            "335i",
+            "335i Luxury",
+            "Lain-lain"
+        ],
+        "Serie 4": [
+            "428i Convertible Sport",
+            "430i Convertible Sport",
+            "435i",
+            "440i Gran Coupe M Sport"
+        ],
+        "Serie 5": [
+            "520d",
+            "520d 2.0L Diesel",
+            "520d F10 2.0 Diesel",
+            "520d F10 Facelift 2.0 Diesel",
+            "520i",
+            "520i 2.0",
+            "520i E28",
+            "520i E34 2.0",
+            "520i E39 Facelift 2.2 L6",
+            "520i E60 2.2 l6",
+            "520i F10 Facelift 2.0",
+            "520i Luxury",
+            "520i Modern",
+            "523i",
+            "523i E39 2.5",
+            "523i E39 2.5 L6",
+            "523i E60 2.5 L6",
+            "525i",
+            "528i",
+            "528i E39 2.8",
+            "528i E39 2.8 L6",
+            "528i F10 2.0",
+            "528i F10 Facelift 2.0",
+            "528i Luxury",
+            "530i",
+            "530i E60 Facelift L6 3.0",
+            "535i",
+            "535i Luxury GT",
+            "Lain-lain"
+        ],
+        "Serie 6": [
+            "630i E63 L6 3.0",
+            "640i",
+            "Grancoupe",
+            "Lain-lain"
+        ],
+        "Serie 7": [
+            "730Li",
+            "730Li Comfort",
+            "730Li E65",
+            "730i",
+            "730i E38 V8 3.0",
+            "735IL V8 3.5",
+            "735Li",
+            "740Li",
+            "740Li F02",
+            "750Li",
+            "Lain-lain"
+        ],
+        "X1": [
+            "Lain-lain",
+            "sDrive18i",
+            "sDrive18i Business",
+            "sDrive18i Executive",
+            "sDrive18i xLine",
+            "sDrive20d",
+            "sDrive20d Sport Edition"
+        ],
+        "X3": [
+            "Lain-lain",
+            "xDrive20d Efficient Dynamics",
+            "xDrive20d xLine",
+            "xDrive20i xLine",
+            "xDrive35i"
+        ],
+        "X4": [
+            "X4"
+        ],
+        "X5": [
+            "E53",
+            "E53 Facelift 3.0 L6",
+            "E70 3.0 V6",
+            "Lain-lain",
+            "xDrive25d",
+            "xDrive30d",
+            "xDrive35i Executive",
+            "xDrive35i xLine"
+        ],
+        "X6": [
+            "xDrive35i"
+        ],
+        "Z4": [
+            "Lain-lain",
+            "sDrive20i",
+            "sDrive23i"
+        ],
+        "i8": [
+            "Sport",
+            "Sports Car"
+        ]
+    },
+    "Bentley": {
+        "Bentley": [
+            "Lain-lain"
+        ],
+        "Continental GT": [
+            "Convertible",
+            "Lain-lain",
+            "V8",
+            "V8 S",
+            "W12"
+        ],
+        "Flying Spurs": [
+            "W12 6.0"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Turbo R": [
+            "Lain-lain"
+        ]
+    },
+    "Cadillac": {
+        "Escalade": [
+            "Lain-lain",
+            "V8 6.2"
+        ]
+    },
+    "Chery": {
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "New QQ": [
+            "1.0 MT"
+        ],
+        "QQ": [
+            "Compact City",
+            "Lain-lain"
+        ],
+        "Tiggo": [
+            "2.0"
+        ]
+    },
+    "Chevrolet": {
+        "Aveo": [
+            "LS",
+            "LT",
+            "Lain-lain"
+        ],
+        "Blazer": [
+            "Lain-lain"
+        ],
+        "Captiva": [
+            "3.0 TFSI V6 Special Package",
+            "Lain-lain"
+        ],
+        "Colorado": [
+            "Lain-lain"
+        ],
+        "Cruze": [
+            "Lain-lain"
+        ],
+        "Estate": [
+            "LS"
+        ],
+        "Kalos": [
+            "1.4",
+            "LT",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Montera": [
+            "Lain-lain"
+        ],
+        "Optra": [
+            "Lain-lain"
+        ],
+        "Orlando": [
+            "LT",
+            "Lain-lain"
+        ],
+        "Spark": [
+            "LS",
+            "LT",
+            "Lain-lain"
+        ],
+        "Spin": [
+            "1.3",
+            "ACTIV",
+            "LS",
+            "LT",
+            "LTZ",
+            "Lain-lain"
+        ],
+        "Tavera": [
+            "LT"
+        ],
+        "Trailblazer": [
+            "Lain-lain"
+        ],
+        "Trax": [
+            "1,4 L",
+            "LT",
+            "LTZ",
+            "Lain-lain"
+        ],
+        "Trooper": [
+            "2.3",
+            "2.8",
+            "LS",
+            "Lain-lain"
+        ],
+        "Zafira": [
+            "1.8",
+            "CD"
+        ]
+    },
+    "Chrysler": {
+        "300": [
+            "300C",
+            "300C Platinum"
+        ],
+        "CJ-5": [
+            "Lain-lain"
+        ],
+        "Cherokee": [
+            "Lain-lain",
+            "Limited"
+        ],
+        "Grand Cherokee": [
+            "Limited"
+        ],
+        "PT CRUISER": [
+            "Lain-lain"
+        ]
+    },
+    "Citroen": {
+        "BX": [
+            "Lain-lain"
+        ]
+    },
+    "DFSK (Dongfeng Sokon)": {
+        "Glory 580": [
+            "Comfort Version",
+            "Lain-lain",
+            "Luxury Version"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Super Cab": [
+            "1.5L"
+        ]
+    },
+    "Daewoo": {
+        "Espero": [
+            "Lain-lain"
+        ],
+        "Matiz": [
+            "0.8",
+            "Lain-lain"
+        ],
+        "Nexia": [
+            "Lain-lain"
+        ]
+    },
+    "Daihatsu": {
+        "Ayla": [
+            "Lain-lain",
+            "M",
+            "M Sporty",
+            "X",
+            "X Elegant"
+        ],
+        "Ceria": [
+            "KL",
+            "KX",
+            "Lain-lain"
+        ],
+        "Charade": [
+            "G100",
+            "Lain-lain"
+        ],
+        "Classy": [
+            "Lain-lain"
+        ],
+        "Espass": [
+            "Lain-lain",
+            "Pick Up Jumbo 1.3"
+        ],
+        "Feroza": [
+            "1.6",
+            "Lain-lain"
+        ],
+        "Gran max": [
+            "Lain-lain"
+        ],
+        "Gran max Pick-up": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Luxio": [
+            "D",
+            "M",
+            "X",
+            "X Prestige"
+        ],
+        "Neo Zebra": [
+            "Lain-lain"
+        ],
+        "Rocky": [
+            "2.8",
+            "F75 4X4 2.8"
+        ],
+        "Sigra": [
+            "1.0 D",
+            "1.0 M",
+            "1.2 R",
+            "1.2 X"
+        ],
+        "Sirion": [
+            "D",
+            "D Drift",
+            "D FMC",
+            "D FMC Deluxe",
+            "D Sport",
+            "Lain-lain",
+            "M",
+            "M Sport"
+        ],
+        "Taft": [
+            "2.5 Diesel",
+            "2.8",
+            "F50 2.5L",
+            "F70 GT",
+            "GT",
+            "Rocky",
+            "Taft 4X4"
+        ],
+        "Taruna": [
+            "CL",
+            "CSR",
+            "CSX",
+            "CX",
+            "FGX",
+            "FL",
+            "FX"
+        ],
+        "Terios": [
+            "Adventure R",
+            "Custom",
+            "Extra X",
+            "R",
+            "TS",
+            "TS Extra",
+            "TX",
+            "TX Adventure",
+            "X"
+        ],
+        "Winner": [
+            "Lain-lain"
+        ],
+        "Xenia": [
+            "D 1.0 Plus",
+            "D 1.0 STD",
+            "Lain-lain",
+            "Li",
+            "Li Deluxe",
+            "Li Family",
+            "Li Special Edition",
+            "Li Sporty",
+            "M",
+            "M 1.0 Deluxe",
+            "M 1.0 STD",
+            "Mi",
+            "R",
+            "R 1.3 Attivo",
+            "R 1.3 DLX",
+            "R 1.3 STD",
+            "R 1.3 Sporty",
+            "X",
+            "X 1.3 Plus",
+            "X 1.3 STD",
+            "X Deluxe",
+            "Xi",
+            "Xi Deluxe",
+            "Xi Family",
+            "Xi Special Edition",
+            "Xi Sporty"
+        ],
+        "Zebra": [
+            "1.3",
+            "Lain-lain",
+            "Minibus 1.3",
+            "ZSX"
+        ]
+    },
+    "Datsun": {
+        "120": [
+            "Lain-lain"
+        ],
+        "620": [
+            "Lain-lain"
+        ],
+        "Cross": [
+            "Lain-lain"
+        ],
+        "Go": [
+            "Lain-lain",
+            "Panca A",
+            "Panca T",
+            "Panca T Active",
+            "Panca T Opt",
+            "T"
+        ],
+        "Go+": [
+            "Lain-lain",
+            "Panca A",
+            "Panca A Opt",
+            "Panca D",
+            "Panca T",
+            "Panca T Opt",
+            "Panca T Style",
+            "Panca T Ultimate"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Dodge": {
+        "Journey": [
+            "2.4 Automatic",
+            "SXT",
+            "SXT Plantinum"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Ferrari": {
+        "456": [
+            "Lain-lain"
+        ],
+        "488": [
+            "Spider"
+        ],
+        "812": [],
+        "California": [
+            "California",
+            "California T",
+            "Lain-lain"
+        ],
+        "F430": [
+            "Lain-lain"
+        ],
+        "Modena": [
+            "Lain-lain"
+        ]
+    },
+    "Fiat": {
+        "125": [
+            "Lain-lain"
+        ],
+        "500": [
+            "Lain-lain",
+            "Lounge"
+        ],
+        "Abart": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Uno": [
+            "Lain-lain"
+        ]
+    },
+    "Ford": {
+        "Ecosport": [
+            "Titanium",
+            "Trend"
+        ],
+        "Escape": [
+            "Lain-lain",
+            "Limited",
+            "XLS",
+            "XLT"
+        ],
+        "Escort": [
+            "Titanium"
+        ],
+        "Everest": [
+            "10-S",
+            "LTD",
+            "Lain-lain",
+            "Limited",
+            "Titanium Plus",
+            "XLT"
+        ],
+        "Fiesta": [
+            "EcoBoost S",
+            "Lain-lain",
+            "Sport",
+            "Sport+",
+            "Style",
+            "Trend"
+        ],
+        "Focus": [
+            "Ghia",
+            "Lain-lain",
+            "S",
+            "Sport",
+            "Sporty",
+            "Titanium"
+        ],
+        "Gala": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Lynx": [
+            "Ghia",
+            "Lain-lain"
+        ],
+        "Mustang": [
+            "2.3",
+            "2.3 Ecoboost",
+            "GT"
+        ],
+        "Ranger": [
+            "Base",
+            "Base Plus",
+            "Hi-Rider XLT",
+            "Hurricane",
+            "Lain-lain",
+            "STD",
+            "Standard",
+            "WildTrak",
+            "XL",
+            "XLT",
+            "XLT-D"
+        ],
+        "Telstar": [
+            "1.6",
+            "2.0"
+        ],
+        "laser": [
+            "Lain-lain"
+        ]
+    },
+    "Foton": {
+        "Foton": [
+            "2.8 CRDi"
+        ]
+    },
+    "Geely": {
+        "LC": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "MK": [
+            "1.5"
+        ],
+        "MK 2": [
+            "1.5 NA"
+        ],
+        "Panda": [
+            "1.3"
+        ],
+        "Panda Cross": [
+            "1.3"
+        ]
+    },
+    "Hino": {
+        "Dutro": [
+            "300 Series",
+            "Lain-lain",
+            "Truck"
+        ],
+        "FL235 JN": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "R260": [
+            "Lain-lain"
+        ],
+        "Ranger": [
+            "13.3",
+            "7.7",
+            "Lain-lain"
+        ],
+        "SG": [
+            "Lain-lain"
+        ],
+        "Super Dolphin Profia": [
+            "Lain-lain"
+        ]
+    },
+    "Holden": {
+        "Belmont": [
+            "Lain-lain"
+        ],
+        "Gemini": [
+            "1.8L",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Premier": [
+            "Lain-lain"
+        ]
+    },
+    "Honda": {
+        "Accord": [
+            "1.6",
+            "2.0",
+            "2.2",
+            "2.4L Vti",
+            "Lain-lain",
+            "V6",
+            "VTi-L",
+            "Vti"
+        ],
+        "BR-V": [
+            "E",
+            "E Prestige"
+        ],
+        "Brio": [
+            "A",
+            "E",
+            "Lain-lain",
+            "RS",
+            "RS 1.2",
+            "S",
+            "Satya E",
+            "Satya S",
+            "Sports E"
+        ],
+        "CR-V": [
+            "2.0",
+            "2.0 Prestige",
+            "2.0 i-VTEC",
+            "2.4",
+            "2.4 Prestige",
+            "2.4 i-VTEC",
+            "4X2",
+            "4X4",
+            "Lain-lain",
+            "RM"
+        ],
+        "CR-Z": [
+            "1.5",
+            "1.5 Hybrid"
+        ],
+        "City": [
+            "1.5 Exi",
+            "E",
+            "Lain-lain",
+            "S",
+            "VTEC",
+            "VTi",
+            "i-DSI"
+        ],
+        "Civic": [
+            "1.3",
+            "1.5",
+            "1.8L",
+            "2.0L",
+            "ES Prestige",
+            "Lain-lain",
+            "Turbo 1.5",
+            "VTi",
+            "VTi-S"
+        ],
+        "Estilo": [
+            "Lain-lain"
+        ],
+        "Ferio": [
+            "Lain-lain"
+        ],
+        "Freed": [
+            "1.5",
+            "A",
+            "E",
+            "Lain-lain",
+            "S"
+        ],
+        "Genio": [
+            "Lain-lain"
+        ],
+        "HR-V": [
+            "1.5L A",
+            "1.5L S",
+            "1.8L Prestige",
+            "E CVT",
+            "E Limited Edition",
+            "E Mugen",
+            "E Special Editon",
+            "S",
+            "S CVT",
+            "S MT"
+        ],
+        "Jazz": [
+            "GE",
+            "GK",
+            "Lain-lain",
+            "RS",
+            "RS CVT",
+            "RS M/T",
+            "S",
+            "VTEC",
+            "i-DSI"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Maestro": [
+            "Lain-lain"
+        ],
+        "Mobilio": [
+            "E",
+            "E Prestige",
+            "RS",
+            "RS Limited Edition",
+            "S"
+        ],
+        "Odyssey": [
+            "2.4L Prestige",
+            "Absolute V6",
+            "Lain-lain",
+            "Prestige 2.4"
+        ],
+        "Prestige": [
+            "Lain-lain"
+        ],
+        "Stream": [
+            "1.7",
+            "2.0",
+            "Lain-lain"
+        ]
+    },
+    "Hummer": {
+        "H2": [
+            "SUT 6.0L",
+            "SUT V8",
+            "V8 6.0"
+        ],
+        "H3": [
+            "Alpha V8",
+            "L5 3.5",
+            "Lain-lain"
+        ]
+    },
+    "Hyundai": {
+        "Accent": [
+            "1.5",
+            "GLS",
+            "Lain-lain"
+        ],
+        "Atoz": [
+            "G",
+            "GL",
+            "GLS",
+            "GLX",
+            "Lain-lain"
+        ],
+        "Avega": [
+            "G",
+            "GL",
+            "GX",
+            "Lain-lain",
+            "SG"
+        ],
+        "Cakra": [
+            "Lain-lain"
+        ],
+        "Coupe": [
+            "Lain-lain"
+        ],
+        "Elantra": [
+            "1.6"
+        ],
+        "Excel": [
+            "1.4",
+            "Lain-lain"
+        ],
+        "Getz": [
+            "Lain-lain"
+        ],
+        "Grand Avega": [
+            "Facelift",
+            "GL",
+            "GL Airbag",
+            "GX",
+            "Lain-lain",
+            "Limited Edition",
+            "SG"
+        ],
+        "H-1": [
+            "2.5 CRDi",
+            "Elegance",
+            "Elegance Next Generion",
+            "Facelift Clasic CRDi",
+            "Lain-lain",
+            "Royale",
+            "Royale Next Generion",
+            "X",
+            "XG Next Generion"
+        ],
+        "H-100": [
+            "T2 2.6L"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Matrix": [
+            "Lain-lain"
+        ],
+        "New Tucson": [
+            "Lain-lain"
+        ],
+        "Santa Fe": [
+            "CRDi",
+            "Dspec",
+            "Dspec CRDi",
+            "Lain-lain",
+            "Limited Edition",
+            "Petrol",
+            "Sport",
+            "V6 2.7"
+        ],
+        "Sonata": [
+            "2.4",
+            "GLS",
+            "Lain-lain"
+        ],
+        "Trajet": [
+            "GL8",
+            "GLS",
+            "GLS SE",
+            "Lain-lain"
+        ],
+        "Verna": [
+            "Lain-lain"
+        ],
+        "i10": [
+            "1.1 L",
+            "GL",
+            "GLS",
+            "Lain-lain"
+        ],
+        "i20": [
+            "1.4",
+            "GL",
+            "SG"
+        ]
+    },
+    "Infiniti": {
+        "FX": [
+            "37",
+            "FX37 3.7L V6"
+        ],
+        "Q": [
+            "Lain-lain"
+        ],
+        "QX": [
+            "QX80 5.6 AWD"
+        ]
+    },
+    "Isuzu": {
+        "Bighorn": [
+            "Lain-lain"
+        ],
+        "Colt 77 PS": [
+            "Lain-lain"
+        ],
+        "D-Max": [
+            "Lain-lain"
+        ],
+        "Elf Minibus": [
+            "2.8 Minibus Diesel",
+            "Lain-lain"
+        ],
+        "Grand touring": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "MU-X": [
+            "2.5 L AT",
+            "2.5 L AT Premiere",
+            "Lain-lain"
+        ],
+        "New Panther": [
+            "Lain-lain"
+        ],
+        "Panther": [
+            "2.2",
+            "2.3",
+            "2.5",
+            "Grand Touring",
+            "LM",
+            "LS",
+            "LS Black Panther",
+            "LS Hi Grade",
+            "LV",
+            "Lain-lain",
+            "Pick Up 2.5",
+            "Pick Up Diesel",
+            "Smart",
+            "Touring"
+        ]
+    },
+    "Jaguar": {
+        "Daimler": [
+            "Lain-lain"
+        ],
+        "E-Pace": [
+            "SUV"
+        ],
+        "F-Type": [
+            "R"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "S-Type": [
+            "3.0",
+            "Lain-lain"
+        ],
+        "X-type": [
+            "Lain-lain"
+        ],
+        "XF": [
+            "Lain-lain",
+            "Premium Luxury"
+        ],
+        "XJ": [
+            "Lain-lain",
+            "Portfolio L"
+        ],
+        "XK": [
+            "Lain-lain"
+        ]
+    },
+    "Jeep": {
+        "CJ7": [
+            "Lain-lain"
+        ],
+        "Cherokee": [
+            "Lain-lain",
+            "Limited",
+            "Trailhawk",
+            "V6 4.0 Automatic"
+        ],
+        "Compass": [
+            "Limited"
+        ],
+        "Grand Cherokee": [
+            "Limited",
+            "Overland",
+            "V8 5.7 Automatic"
+        ],
+        "Jeep": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Renegade": [
+            "Limited",
+            "sport-renegrade"
+        ],
+        "Rubicon": [
+            "Lain-lain"
+        ],
+        "Sahara": [
+            "Lain-lain"
+        ],
+        "Willys": [
+            "Lain-lain"
+        ],
+        "Wrangler": [
+            "Lain-lain",
+            "Rubicon",
+            "Rubicon Unlimited",
+            "Sahara",
+            "Sahara CRD",
+            "Sahara Unlimited",
+            "Sport Renegrade",
+            "Sport Unlimited",
+            "Sport X",
+            "V6 3.6"
+        ]
+    },
+    "KIA": {
+        "Carens I": [
+            "Lain-lain"
+        ],
+        "Carens II": [
+            "Lain-lain"
+        ],
+        "Carnival": [
+            "GS",
+            "Lain-lain",
+            "TD"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Optima": [
+            "Hybrid"
+        ],
+        "Picanto": [
+            "1.2 NA",
+            "A/T",
+            "A/T Option",
+            "Lain-lain",
+            "M/T",
+            "Platinum",
+            "SE",
+            "SE 2",
+            "SE 3"
+        ],
+        "Pregio": [
+            "Lain-lain",
+            "SE Option"
+        ],
+        "Pride": [
+            "1.4",
+            "Lain-lain"
+        ],
+        "Rio": [
+            "1.5",
+            "1.6 Sedan",
+            "Hatchback",
+            "Lain-lain"
+        ],
+        "Rio 5 Door": [
+            "EX Sport AT",
+            "LX+ MT",
+            "Lain-lain"
+        ],
+        "Sedona": [
+            "GS",
+            "L",
+            "LX+",
+            "Lain-lain"
+        ],
+        "Sorento": [
+            "Lain-lain"
+        ],
+        "Sportage": [
+            "EX",
+            "LX",
+            "Lain-lain",
+            "Plantinum"
+        ],
+        "Travello": [
+            "Lain-lain",
+            "Option 2"
+        ],
+        "Visto": [
+            "Lain-lain"
+        ]
+    },
+    "Klasik dan Antik": {
+        "Klasik dan Antik": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Lain-lain": {
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Lamborghini": {
+        "Aventador": [
+            "Lain-lain"
+        ],
+        "Gallardo": [
+            "Lain-lain"
+        ]
+    },
+    "Land Rover": {
+        "Defender": [
+            "L4 110SW 2.2",
+            "Lain-lain",
+            "TD5 L5 2.5"
+        ],
+        "Discovery": [
+            "Lain-lain"
+        ],
+        "Discovery Sport": [
+            "HSE Si4"
+        ],
+        "Free Lander": [
+            "Td4"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Range Rover Evoque": [
+            "Dynamic Luxury Si4",
+            "Dynamic Si4",
+            "Lain-lain"
+        ],
+        "Range Rover Sport": [
+            "Autobiography",
+            "HSE",
+            "Lain-lain",
+            "V8 Supercharged"
+        ],
+        "Range rover": [
+            "Lain-lain"
+        ]
+    },
+    "Lexus": {
+        "430": [
+            "Lain-lain"
+        ],
+        "ES": [
+            "300H",
+            "ES250"
+        ],
+        "GS": [
+            "300",
+            "350"
+        ],
+        "IS": [
+            "IS300 3.0"
+        ],
+        "LS": [
+            "400",
+            "460 L V8",
+            "460 L V8 4.6",
+            "460L"
+        ],
+        "LX": [
+            "470",
+            "470 V8 4.7 Automatic",
+            "570",
+            "570 Sport",
+            "570 V8 5.7 Automatic"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "NX": [
+            "200T F-Sport",
+            "Lain-lain"
+        ],
+        "RX": [
+            "200T AL20",
+            "200T F Sport",
+            "270",
+            "270 AL10",
+            "300",
+            "350 AL10",
+            "350 F Sport",
+            "Lain-lain"
+        ]
+    },
+    "Maserati": {
+        "Ghibli": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Quatrroporte": [
+            "Lain-lain"
+        ]
+    },
+    "Mazda": {
+        "2": [
+            "GT",
+            "Lain-lain",
+            "Limited Edition",
+            "R",
+            "RZ",
+            "S",
+            "V"
+        ],
+        "3": [
+            "L4 2.0",
+            "Lain-lain"
+        ],
+        "323": [
+            "1.3",
+            "1.6",
+            "1.8",
+            "Interplay",
+            "Lain-lain"
+        ],
+        "5": [
+            "2.0",
+            "Lain-lain"
+        ],
+        "6": [
+            "2.5",
+            "Lain-lain"
+        ],
+        "626": [
+            "1.6",
+            "Lain-lain"
+        ],
+        "8": [
+            "2.3",
+            "Lain-lain"
+        ],
+        "Astina": [
+            "Lain-lain"
+        ],
+        "BT-50": [
+            "2.5 Basic",
+            "2.5 D Pickup",
+            "2.5 Middle",
+            "Basic",
+            "High",
+            "Lain-lain"
+        ],
+        "Baby Boomer": [
+            "Lain-lain"
+        ],
+        "Biante": [
+            "2.0",
+            "2.0 SKYACTIV",
+            "Lain-lain",
+            "Limited Edition"
+        ],
+        "CX-3": [
+            "Grand Touring",
+            "Lain-lain",
+            "Touring"
+        ],
+        "CX-5": [
+            "Elite",
+            "Grand Touring",
+            "Lain-lain",
+            "Sport",
+            "Touring",
+            "Urban"
+        ],
+        "CX-7": [
+            "2.3",
+            "2.4",
+            "2.5",
+            "Lain-lain"
+        ],
+        "CX-9": [
+            "3.7 NA",
+            "GT",
+            "Lain-lain"
+        ],
+        "E2000": [
+            "2.0",
+            "Lain-lain",
+            "Ltd",
+            "Std"
+        ],
+        "Familia": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Lantis": [
+            "1.8 NA"
+        ],
+        "MR-90": [
+            "Lain-lain"
+        ],
+        "MX": [
+            "Lain-lain"
+        ],
+        "RX-8": [
+            "1.3",
+            "Spirit R",
+            "Sport"
+        ],
+        "Tribute": [
+            "4X2"
+        ],
+        "Vantrend": [
+            "1.4",
+            "Lain-lain"
+        ]
+    },
+    "Mercedes-Benz": {
+        "A-Class": [
+            "A140",
+            "A150",
+            "A200",
+            "A250",
+            "A45"
+        ],
+        "B-Class": [
+            "B170",
+            "B200"
+        ],
+        "C-Class": [
+            "C180",
+            "C200",
+            "C200K",
+            "C230",
+            "C240",
+            "C250",
+            "C280",
+            "C300",
+            "C320",
+            "C43 AMG",
+            "Lain-lain"
+        ],
+        "CLA-Class": [
+            "CLA200",
+            "CLA45 AMG",
+            "Lain-lain"
+        ],
+        "CLC-Class": [
+            "CLC200"
+        ],
+        "CLK": [
+            "Lain-lain"
+        ],
+        "CLS": [
+            "CLS63 5.5 AMG",
+            "Lain-lain"
+        ],
+        "CLS 350": [
+            "Lain-lain"
+        ],
+        "CLS-Class": [
+            "CLS350",
+            "CLS400",
+            "CLS63 AMG"
+        ],
+        "E-Class": [
+            "E200",
+            "E200K",
+            "E220",
+            "E230",
+            "E240",
+            "E250",
+            "E260",
+            "E280",
+            "E300",
+            "E320",
+            "E350",
+            "E400",
+            "E63 AMG",
+            "Lain-lain"
+        ],
+        "G-Class": [
+            "G55 AMG",
+            "Lain-lain"
+        ],
+        "GL-Class": [
+            "GL400",
+            "GL500"
+        ],
+        "GLA-Class": [
+            "GLA200",
+            "GLA45 AMG"
+        ],
+        "GLC-Class": [
+            "GLC250",
+            "Lain-lain"
+        ],
+        "GLE-Class": [
+            "GLE250",
+            "GLE250D",
+            "GLE400",
+            "GLE43 AMG",
+            "Lain-lain"
+        ],
+        "GLS-Class": [
+            "GLS400"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Lainnya": [
+            "Lain-lain"
+        ],
+        "M-Class": [
+            "Lain-lain"
+        ],
+        "ML 350": [
+            "Lain-lain"
+        ],
+        "ML-Class": [
+            "ML320",
+            "ML350",
+            "ML400"
+        ],
+        "R-Class": [
+            "Lain-lain",
+            "R280L"
+        ],
+        "S-Class": [
+            "Lain-lain",
+            "S280",
+            "S300 L",
+            "S320",
+            "S350",
+            "S350 L",
+            "S400",
+            "S400 L",
+            "S500",
+            "S500 L"
+        ],
+        "SL": [
+            "Lain-lain"
+        ],
+        "SLK": [
+            "Lain-lain"
+        ],
+        "SLK-Class": [
+            "SLK200",
+            "SLK200K",
+            "SLK230K",
+            "SLK250"
+        ],
+        "SLS AMG": [
+            "Lain-lain"
+        ],
+        "Tiger": [
+            "Lain-lain"
+        ],
+        "V-Class": [
+            "V220"
+        ],
+        "Viano": [
+            "Lain-lain"
+        ],
+        "Vito": [
+            "Lain-lain"
+        ]
+    },
+    "Mini Cooper": {
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Mini Cooper": [
+            "Lain-lain"
+        ]
+    },
+    "Mitsubishi": {
+        "Colt": [
+            "1.5",
+            "3.3",
+            "3.9",
+            "Box 3.3",
+            "Bus Diesel NA",
+            "Lain-lain",
+            "PS 4.0"
+        ],
+        "Delica": [
+            "Standart"
+        ],
+        "Eterna": [
+            "2.0 Manual"
+        ],
+        "Galant": [
+            "2.0",
+            "Lain-lain",
+            "V6-24"
+        ],
+        "Grandis": [
+            "2.4",
+            "GT"
+        ],
+        "Kuda": [
+            "Deluxe",
+            "Diamond",
+            "GLS",
+            "GLX",
+            "Grandia",
+            "Lain-lain",
+            "Super Exceed"
+        ],
+        "L200": [
+            "Strada"
+        ],
+        "L300": [
+            "Bus Chassis",
+            "Lain-lain",
+            "Minibus Standart",
+            "Pick Up"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Lancer": [
+            "1.4",
+            "1.5",
+            "1.6 GLXi",
+            "1.8",
+            "1.8 GLXi",
+            "1.8 SEi",
+            "GLXi",
+            "Lain-lain",
+            "SEi",
+            "SL"
+        ],
+        "Lancer Evolution": [
+            "2.0 Evolution 3",
+            "Lain-lain"
+        ],
+        "Maven": [
+            "GLS",
+            "GLX"
+        ],
+        "Mirage": [
+            "Exceed",
+            "GLS",
+            "GLX",
+            "SPORT"
+        ],
+        "Outlander": [
+            "Lain-lain"
+        ],
+        "Pajero": [
+            "3.2",
+            "Lain-lain",
+            "V6 3.0"
+        ],
+        "Pajero Sport": [
+            "2.5L Dakar",
+            "2.5L Diesel NA",
+            "Dakar",
+            "Dakar 2.4",
+            "Exceed",
+            "GLS",
+            "GLX",
+            "Lain-lain",
+            "V6"
+        ],
+        "Strada": [],
+        "Strada Triton": [
+            "2.5 Manual",
+            "Exceed Hi-Power",
+            "GLS",
+            "GLX",
+            "HD-X"
+        ],
+        "T120SS": [
+            "Bus Chassis",
+            "Lain-lain",
+            "Pick Up"
+        ],
+        "Triton": [
+            "GLS",
+            "GLX",
+            "HD-X",
+            "HDX",
+            "Lain-lain"
+        ],
+        "Xpander": [
+            "EXCEED A/T",
+            "EXCEED M/T",
+            "GLS M/T",
+            "SPORT A/T",
+            "ULTIMATE A/T"
+        ]
+    },
+    "Mobil CBU": {
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Mobil CBU Lainnya": [
+            "Lain-lain"
+        ]
+    },
+    "Nissan": {
+        "Elgrand": [
+            "HWS"
+        ],
+        "Evalia": [
+            "Lain-lain",
+            "ST",
+            "SV",
+            "XV"
+        ],
+        "Fairlady": [
+            "Lain-lain"
+        ],
+        "Grand livina": [
+            "Lain-lain"
+        ],
+        "Juke": [
+            "1.5 CVT",
+            "Lain-lain",
+            "RX",
+            "Revolt"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Latio": [
+            "1.6",
+            "Lain-lain"
+        ],
+        "Livina": [
+            "Lain-lain",
+            "X-Gear"
+        ],
+        "March": [
+            "1.2",
+            "1.2L",
+            "1.2L XS",
+            "1.5L",
+            "Lain-lain",
+            "XS"
+        ],
+        "Navara": [
+            "2.5",
+            "Sports Version",
+            "VL"
+        ],
+        "Sentra": [
+            "1.6",
+            "1.6 Sedan"
+        ],
+        "Serena": [
+            "Autech",
+            "HWS",
+            "Lain-lain",
+            "X"
+        ],
+        "Skyline": [
+            "Lain-lain"
+        ],
+        "Teana": [
+            "230 JS",
+            "250 XV",
+            "XV"
+        ],
+        "Terrano": [
+            "2.4 Spirit S1",
+            "GrandRoad",
+            "Kingsroad",
+            "SGX",
+            "Spirit"
+        ],
+        "X-Trail": [
+            "Lain-lain"
+        ]
+    },
+    "Opel": {
+        "Blazer": [
+            "DOHC",
+            "DOHC LT",
+            "Lain-lain",
+            "Montera LN"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Montera": [
+            "Lain-lain"
+        ],
+        "Optima": [
+            "1.8"
+        ],
+        "Vectra": [
+            "Lain-lain"
+        ]
+    },
+    "Peugeot": {
+        "107": [
+            "Lain-lain"
+        ],
+        "206": [
+            "Lain-lain",
+            "Sporty",
+            "XR",
+            "XS"
+        ],
+        "207": [
+            "1.4",
+            "L4 1.4",
+            "Lain-lain"
+        ],
+        "3008": [
+            "Lain-lain"
+        ],
+        "306": [
+            "LeMans",
+            "ST"
+        ],
+        "307": [
+            "SW",
+            "Sporty XS"
+        ],
+        "308": [
+            "Lain-lain"
+        ],
+        "405": [
+            "1.9",
+            "2.0",
+            "Lain-lain"
+        ],
+        "406": [
+            "1.8",
+            "2.0",
+            "Lain-lain",
+            "Limited"
+        ],
+        "407": [
+            "407"
+        ],
+        "408": [
+            "Turbo"
+        ],
+        "505": [
+            "Lain-lain"
+        ],
+        "806": [
+            "HDI"
+        ],
+        "807": [
+            "2.0 16V"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Porsche": {
+        "911": [
+            "Carera S",
+            "Lain-lain",
+            "Turbo"
+        ],
+        "Boxster": [
+            "Lain-lain",
+            "S"
+        ],
+        "Cayenne": [
+            "Lain-lain",
+            "Turbo",
+            "V6 3.2",
+            "V6 3.6"
+        ],
+        "Cayman": [
+            "2.9",
+            "Lain-lain",
+            "S"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Proton": {
+        "Exora": [
+            "CFE Prime",
+            "CPS B-Line",
+            "CPS Executive",
+            "CPS FL",
+            "CPS Supreme",
+            "FLX",
+            "Lain-lain"
+        ],
+        "Gen2": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Saga": [
+            "BLM",
+            "FLX",
+            "Lain-lain"
+        ],
+        "Satria": [
+            "Lain-lain"
+        ],
+        "Savvy": [
+            "Lain-lain"
+        ],
+        "Waja": [
+            "Lain-lain"
+        ],
+        "Wira": [
+            "Lain-lain"
+        ]
+    },
+    "Renault": {
+        "Clio": [
+            "1.4"
+        ],
+        "Kangoo": [
+            "Lain-lain"
+        ],
+        "Koleos": [
+            "2.5 X-Tronic CVT"
+        ],
+        "Kwid": [
+            "1.0 Sce"
+        ],
+        "Laguna": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Megane": [
+            "Lain-lain"
+        ],
+        "Scenic": [
+            "dTi"
+        ]
+    },
+    "Roll-Royce": {
+        "Ghost": [
+            "6.6"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Smart": {
+        "Fortwo": [
+            "1.0 Compact Car",
+            "1.0 Passion Coupe",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    },
+    "Ssang Yong": {
+        "Musso": [
+            "TD"
+        ],
+        "Rexton": [
+            "RX230 Deluxe"
+        ]
+    },
+    "Subaru": {
+        "BRZ": [
+            "A/T"
+        ],
+        "Exiga": [
+            "2.0"
+        ],
+        "Forester": [
+            "2.0",
+            "Lain-lain"
+        ],
+        "Impreza": [
+            "2.0",
+            "2.0i-S",
+            "WRX"
+        ],
+        "Legacy": [
+            "2.0"
+        ],
+        "Outback": [
+            "Lain-lain"
+        ],
+        "WRX STi": [
+            "Lain-lain",
+            "WRX STi"
+        ],
+        "XV": [
+            "201 2.0",
+            "Lain-lain",
+            "Premium"
+        ]
+    },
+    "Suzuki": {
+        "APV": [
+            "Blind Van High",
+            "GE",
+            "GL",
+            "GX",
+            "Lain-lain",
+            "Mega Carry",
+            "Mega Carry Box",
+            "SGX Arena",
+            "SGX Luxury"
+        ],
+        "Aerio": [
+            "Lain-lain"
+        ],
+        "Amenity": [
+            "Lain-lain"
+        ],
+        "Baleno": [
+            "1.3",
+            "1.5",
+            "1.6",
+            "Hatchback",
+            "Lain-lain"
+        ],
+        "Baleno next-G": [
+            "Lain-lain"
+        ],
+        "Carry": [
+            "DX",
+            "FD",
+            "Lain-lain",
+            "RV. Gx",
+            "WD"
+        ],
+        "Carry Pick-up": [
+            "Lain-lain"
+        ],
+        "Carry Van": [
+            "Lain-lain"
+        ],
+        "Ertiga": [
+            "Dreza",
+            "Dreza GS",
+            "GA",
+            "GL",
+            "GL Sporty",
+            "GX",
+            "GX Elegant",
+            "Lain-lain"
+        ],
+        "Escudo": [
+            "JLX",
+            "Lain-lain"
+        ],
+        "Esteem": [
+            "1.3 Sedan",
+            "Lain-lain"
+        ],
+        "Forsa": [
+            "Lain-lain"
+        ],
+        "Futura": [
+            "Lain-lain"
+        ],
+        "Grand escudo": [],
+        "Grand vitara": [
+            "Lain-lain"
+        ],
+        "Ignis": [
+            "GL",
+            "GL MT",
+            "GX AT",
+            "GX MT"
+        ],
+        "Jimnie": [
+            "Lain-lain"
+        ],
+        "Jimny": [
+            "4 AT",
+            "5 MT",
+            "Lain-lain"
+        ],
+        "Karimun": [
+            "DX",
+            "Estilo",
+            "GX",
+            "Lain-lain"
+        ],
+        "Karimun estillo": [
+            "Lain-lain"
+        ],
+        "Katana": [
+            "1.0",
+            "GX",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Neo Baleno": [
+            "1.5"
+        ],
+        "SX4": [
+            "Cross Over",
+            "Cross Road",
+            "Lain-lain"
+        ],
+        "Sidekick": [
+            "1.6",
+            "Lain-lain"
+        ],
+        "Splash": [
+            "GL",
+            "Lain-lain"
+        ],
+        "Swift": [
+            "GL",
+            "GS",
+            "GT",
+            "GT2",
+            "GT3",
+            "GX",
+            "Lain-lain",
+            "ST"
+        ],
+        "Wagon R": [
+            "DILAGO",
+            "GX",
+            "Lain-lain"
+        ]
+    },
+    "Tata": {
+        "Ace": [
+            "EX2",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Super Ace": [
+            "DLS"
+        ],
+        "Vista": [
+            "GZX"
+        ],
+        "Xenon": [
+            "RX",
+            "XT"
+        ]
+    },
+    "Timor": {
+        "DOHC": [
+            "1.3",
+            "1.5",
+            "1.6",
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "S515i": [
+            "1.5 DOHC",
+            "Lain-lain"
+        ],
+        "SOHC": [
+            "1.3",
+            "1.5",
+            "Lain-lain"
+        ]
+    },
+    "Toyota": {
+        "86": [
+            "Automatic",
+            "TRD"
+        ],
+        "Agya": [
+            "G",
+            "TRD Sportivo"
+        ],
+        "Alphard": [
+            "2.4 NA",
+            "2.5 G",
+            "2.5 L",
+            "2.5 X",
+            "3.5 Q",
+            "G",
+            "G S C Package",
+            "Lain-lain",
+            "V"
+        ],
+        "Altis": [
+            "G",
+            "Lain-lain",
+            "V"
+        ],
+        "Avanza": [
+            "E",
+            "E STD",
+            "G",
+            "G Basic",
+            "G Luxury",
+            "Luxury Veloz",
+            "S",
+            "Veloz"
+        ],
+        "Calya": [
+            "E",
+            "G"
+        ],
+        "Camry": [
+            "2,5 G",
+            "2,5 V",
+            "L Hybrid",
+            "Q",
+            "V"
+        ],
+        "Corolla": [
+            "1.2",
+            "1.3",
+            "2.0",
+            "DX",
+            "E80",
+            "Lain-lain",
+            "Spacio 1.5"
+        ],
+        "Corolla Altis": [
+            "G 1.8",
+            "V 1.8"
+        ],
+        "Corona": [
+            "2.0"
+        ],
+        "Etios": [
+            "E",
+            "G",
+            "Lain-lain"
+        ],
+        "Etios Valco": [
+            "JX",
+            "Lain-lain"
+        ],
+        "Fortuner": [
+            "2.4",
+            "G",
+            "G Luxury",
+            "G TRD",
+            "SRZ",
+            "TRD",
+            "V",
+            "VRZ"
+        ],
+        "HI Ace": [
+            "Luxury"
+        ],
+        "HILUX": [
+            "Lain-lain"
+        ],
+        "Hardtop": [
+            "Lain-lain"
+        ],
+        "Harrier": [
+            "240G"
+        ],
+        "Innova": [
+            "E",
+            "G",
+            "G Luxury",
+            "Lain-lain",
+            "V",
+            "V Diesel",
+            "V Luxury",
+            "Venturer"
+        ],
+        "Kijang": [
+            "1.5",
+            "2.4",
+            "Krista",
+            "LGX",
+            "LGX-D",
+            "LSX",
+            "LSX-D",
+            "LX",
+            "Lain-lain",
+            "SGX",
+            "SX"
+        ],
+        "Kijang Pick-Up": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Land Cruiser": [
+            "4.2 VX",
+            "4.5 V8 Diesel",
+            "Prado 2.7"
+        ],
+        "Limo": [
+            "1.5",
+            "Lain-lain"
+        ],
+        "Nav1": [],
+        "RAV4": [
+            "LWB"
+        ],
+        "Rush": [
+            "G",
+            "G Luxury",
+            "S",
+            "S TRD Sportivo Luxury",
+            "TRD Sportivo",
+            "TRD Sportivo Ultimo"
+        ],
+        "Sienta": [
+            "E",
+            "G",
+            "Q",
+            "V"
+        ],
+        "Soluna": [
+            "Gli",
+            "Xli"
+        ],
+        "Starlet": [
+            "1.0",
+            "Lain-lain"
+        ],
+        "Succed": [
+            "Lain-lain"
+        ],
+        "Vellfire": [
+            "2.5 G",
+            "G",
+            "V",
+            "X",
+            "Z",
+            "ZG"
+        ],
+        "Vios": [
+            "E",
+            "G",
+            "Lain-lain",
+            "TRD"
+        ],
+        "Voltz": [
+            "Lain-lain"
+        ],
+        "Voxy": [
+            "Lain-lain"
+        ],
+        "Yaris": [
+            "E",
+            "G",
+            "Heykers",
+            "J",
+            "S",
+            "S limited",
+            "TRD E Grade M/T",
+            "TRD Sportivo",
+            "TRD Sportivo Heykers",
+            "TRD Sportivo TRD M/T"
+        ],
+        "ist": [
+            "Lain-lain"
+        ]
+    },
+    "Volkswagen": {
+        "Beetle": [
+            "1.2",
+            "1.2 NA",
+            "1.3",
+            "Lain-lain"
+        ],
+        "Caravelle": [
+            "2.5",
+            "2.5 Diesel Tdi",
+            "2.5 TDi NA",
+            "Lain-lain",
+            "New T5 2.0 TDI Long 7-speed"
+        ],
+        "Combi": [
+            "1.6",
+            "1.6 NA",
+            "Lain-lain"
+        ],
+        "Golf": [
+            "FSI",
+            "GTI",
+            "Lain-lain",
+            "MkVII 1.2 TSI",
+            "MkVII 1.4 TSI",
+            "MkVII 2.0 GTI",
+            "TSI"
+        ],
+        "Kodok": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "Polo": [
+            "1.4",
+            "Lain-lain",
+            "TSI 1.2"
+        ],
+        "Safari": [
+            "1.6 L",
+            "Lain-lain"
+        ],
+        "Scirocco": [
+            "1.4 TSI",
+            "GT 2.0 TSI",
+            "GTS",
+            "R"
+        ],
+        "Tiguan": [
+            "TSI"
+        ],
+        "Touareg": [
+            "Lain-lain",
+            "TDI",
+            "V6"
+        ],
+        "Touran": [
+            "TSI"
+        ]
+    },
+    "Volvo": {
+        "960": [
+            "Lain-lain"
+        ],
+        "C30": [
+            "Lain-lain"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ],
+        "S40": [
+            "Turbo"
+        ],
+        "S60": [
+            "Lain-lain"
+        ],
+        "S70": [
+            "Lain-lain"
+        ],
+        "S80": [
+            "2.4 T Sedan",
+            "Lain-lain"
+        ],
+        "S90": [
+            "3.0"
+        ],
+        "V70": [
+            "Lain-lain"
+        ],
+        "XC90": [
+            "2.5",
+            "T-6"
+        ]
+    },
+    "Wuling": {
+        "Confero S": [
+            "Lain-lain",
+            "S 1.5",
+            "S 1.5C",
+            "S 1.5C LUX",
+            "S 1.5C LUX PLUS",
+            "S 1.5L",
+            "S 1.5L LUX"
+        ],
+        "Cortez": [
+            "1.5",
+            "1.8"
+        ],
+        "Lain-lain": [
+            "Lain-lain"
+        ]
+    }
+}

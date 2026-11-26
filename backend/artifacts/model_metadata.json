@@ -1,0 +1,56 @@
+{
+    "model_name": "Stacking Ensemble",
+    "model_version": "1.0.0",
+    "dataset": "OLX Mobil Bekas Indonesia",
+    "dataset_year": 2019,
+    "training_samples": 11701,
+    "testing_samples": 2919,
+    "total_features": 13,
+    "features": [
+        "provinsi",
+        "merek",
+        "model",
+        "varian",
+        "tahun",
+        "jarak_tempuh",
+        "tipe_bahan_bakar",
+        "warna",
+        "transmisi",
+        "tipe_bodi",
+        "kapasitas_mesin",
+        "tipe_penjual",
+        "sistem_penggerak"
+    ],
+    "numerical_features": [
+        "tahun",
+        "jarak_tempuh"
+    ],
+    "categorical_features": [
+        "provinsi",
+        "merek",
+        "model",
+        "varian",
+        "tipe_bahan_bakar",
+        "warna",
+        "transmisi",
+        "tipe_bodi",
+        "kapasitas_mesin",
+        "tipe_penjual",
+        "sistem_penggerak"
+    ],
+    "base_learners": [
+        "Random Forest",
+        "XGBoost",
+        "SVR"
+    ],
+    "meta_learner": "Linear Regression",
+    "target": "harga",
+    "currency": "IDR",
+    "target_transformation": "log1p",
+    "metrics": {
+        "mae": 52623186.74460647,
+        "rmse": 250672913.62092412,
+        "mape": 17.90285754931735,
+        "r2": 0.8177596346746435
+    }
+}
