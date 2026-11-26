@@ -1,4 +1,5 @@
 import React from 'react';
+import {StatusBar} from 'react-native';
 
 import {
   SafeAreaProvider,
@@ -9,6 +10,7 @@ import AppNavigator from './src/navigation/AppNavigator';
 export default function App() {
   return (
     <SafeAreaProvider>
+      <StatusBar barStyle="dark-content" />
       <AppNavigator />
     </SafeAreaProvider>
   );
