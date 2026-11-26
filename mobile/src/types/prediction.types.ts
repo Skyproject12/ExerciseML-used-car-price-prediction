@@ -46,3 +46,10 @@ export type VehicleMapping = Record<
   string,
   Record<string, string[]>
 >;
+
+export interface ModelMetrics {
+  mae: number;
+  rmse: number;
+  mape: number;
+  r2: number;
+}

@@ -6,6 +6,7 @@ import type {
   PredictionResponse,
   FeatureOptions,
   VehicleMapping,
+  ModelMetrics,
 } from '../types/prediction.types';
 
 export const predictionService = {
@@ -37,6 +38,19 @@ export const predictionService = {
       '/predict',
       payload,
     );
+
+    return response.data;
+  },
+
+  getModelMetrics: async (): Promise<ModelMetrics> => {
+    const response =
+      await api.get<ModelMetrics>('/model/metrics');
+
+    return response.data;
+  },
+
+  getModelInfo: async (): Promise<Record<string, unknown>> => {
+    const response = await api.get('/model/info');
 
     return response.data;
   },
