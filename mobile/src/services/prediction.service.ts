@@ -4,11 +4,28 @@ import type {
   HealthResponse,
   PredictionRequest,
   PredictionResponse,
+  FeatureOptions,
+  VehicleMapping,
 } from '../types/prediction.types';
 
 export const predictionService = {
   getHealth: async (): Promise<HealthResponse> => {
-    const response = await api.get<HealthResponse>('/health');
+    const response =
+      await api.get<HealthResponse>('/health');
+
+    return response.data;
+  },
+
+  getFeatureOptions: async (): Promise<FeatureOptions> => {
+    const response =
+      await api.get<FeatureOptions>('/features');
+
+    return response.data;
+  },
+
+  getVehicleMapping: async (): Promise<VehicleMapping> => {
+    const response =
+      await api.get<VehicleMapping>('/vehicles');
 
     return response.data;
   },

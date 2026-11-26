@@ -3,10 +3,8 @@ export interface PredictionRequest {
   merek: string;
   model: string;
   varian: string | null;
-
   tahun: number;
   jarak_tempuh: number;
-
   tipe_bahan_bakar: string | null;
   warna: string | null;
   transmisi: string | null;
